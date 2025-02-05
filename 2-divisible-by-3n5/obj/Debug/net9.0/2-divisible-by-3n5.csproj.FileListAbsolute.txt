@@ -1,0 +1,15 @@
+D:\UU\oop\oop\2-divisible-by-3n5\bin\Debug\net9.0\2-divisible-by-3n5.exe
+D:\UU\oop\oop\2-divisible-by-3n5\bin\Debug\net9.0\2-divisible-by-3n5.deps.json
+D:\UU\oop\oop\2-divisible-by-3n5\bin\Debug\net9.0\2-divisible-by-3n5.runtimeconfig.json
+D:\UU\oop\oop\2-divisible-by-3n5\bin\Debug\net9.0\2-divisible-by-3n5.dll
+D:\UU\oop\oop\2-divisible-by-3n5\bin\Debug\net9.0\2-divisible-by-3n5.pdb
+D:\UU\oop\oop\2-divisible-by-3n5\obj\Debug\net9.0\2-divisible-by-3n5.GeneratedMSBuildEditorConfig.editorconfig
+D:\UU\oop\oop\2-divisible-by-3n5\obj\Debug\net9.0\2-divisible-by-3n5.AssemblyInfoInputs.cache
+D:\UU\oop\oop\2-divisible-by-3n5\obj\Debug\net9.0\2-divisible-by-3n5.AssemblyInfo.cs
+D:\UU\oop\oop\2-divisible-by-3n5\obj\Debug\net9.0\2-divisible-by-3n5.csproj.CoreCompileInputs.cache
+D:\UU\oop\oop\2-divisible-by-3n5\obj\Debug\net9.0\2-divisible-by-3n5.sourcelink.json
+D:\UU\oop\oop\2-divisible-by-3n5\obj\Debug\net9.0\2-divisible-by-3n5.dll
+D:\UU\oop\oop\2-divisible-by-3n5\obj\Debug\net9.0\refint\2-divisible-by-3n5.dll
+D:\UU\oop\oop\2-divisible-by-3n5\obj\Debug\net9.0\2-divisible-by-3n5.pdb
+D:\UU\oop\oop\2-divisible-by-3n5\obj\Debug\net9.0\2-divisible-by-3n5.genruntimeconfig.cache
+D:\UU\oop\oop\2-divisible-by-3n5\obj\Debug\net9.0\ref\2-divisible-by-3n5.dll
