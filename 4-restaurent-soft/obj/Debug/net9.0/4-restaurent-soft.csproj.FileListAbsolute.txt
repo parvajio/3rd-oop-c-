@@ -1,0 +1,15 @@
+D:\UU\oop\oop\4-restaurent-soft\bin\Debug\net9.0\4-restaurent-soft.exe
+D:\UU\oop\oop\4-restaurent-soft\bin\Debug\net9.0\4-restaurent-soft.deps.json
+D:\UU\oop\oop\4-restaurent-soft\bin\Debug\net9.0\4-restaurent-soft.runtimeconfig.json
+D:\UU\oop\oop\4-restaurent-soft\bin\Debug\net9.0\4-restaurent-soft.dll
+D:\UU\oop\oop\4-restaurent-soft\bin\Debug\net9.0\4-restaurent-soft.pdb
+D:\UU\oop\oop\4-restaurent-soft\obj\Debug\net9.0\4-restaurent-soft.GeneratedMSBuildEditorConfig.editorconfig
+D:\UU\oop\oop\4-restaurent-soft\obj\Debug\net9.0\4-restaurent-soft.AssemblyInfoInputs.cache
+D:\UU\oop\oop\4-restaurent-soft\obj\Debug\net9.0\4-restaurent-soft.AssemblyInfo.cs
+D:\UU\oop\oop\4-restaurent-soft\obj\Debug\net9.0\4-restaurent-soft.csproj.CoreCompileInputs.cache
+D:\UU\oop\oop\4-restaurent-soft\obj\Debug\net9.0\4-restaurent-soft.sourcelink.json
+D:\UU\oop\oop\4-restaurent-soft\obj\Debug\net9.0\4-restaurent-soft.dll
+D:\UU\oop\oop\4-restaurent-soft\obj\Debug\net9.0\refint\4-restaurent-soft.dll
+D:\UU\oop\oop\4-restaurent-soft\obj\Debug\net9.0\4-restaurent-soft.pdb
+D:\UU\oop\oop\4-restaurent-soft\obj\Debug\net9.0\4-restaurent-soft.genruntimeconfig.cache
+D:\UU\oop\oop\4-restaurent-soft\obj\Debug\net9.0\ref\4-restaurent-soft.dll
