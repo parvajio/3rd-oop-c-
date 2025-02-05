@@ -1,0 +1,14 @@
+D:\UU\oop\oop\1-max-of-three\bin\Debug\net9.0\1-max-of-three.exe
+D:\UU\oop\oop\1-max-of-three\bin\Debug\net9.0\1-max-of-three.deps.json
+D:\UU\oop\oop\1-max-of-three\bin\Debug\net9.0\1-max-of-three.runtimeconfig.json
+D:\UU\oop\oop\1-max-of-three\bin\Debug\net9.0\1-max-of-three.dll
+D:\UU\oop\oop\1-max-of-three\bin\Debug\net9.0\1-max-of-three.pdb
+D:\UU\oop\oop\1-max-of-three\obj\Debug\net9.0\1-max-of-three.GeneratedMSBuildEditorConfig.editorconfig
+D:\UU\oop\oop\1-max-of-three\obj\Debug\net9.0\1-max-of-three.AssemblyInfoInputs.cache
+D:\UU\oop\oop\1-max-of-three\obj\Debug\net9.0\1-max-of-three.AssemblyInfo.cs
+D:\UU\oop\oop\1-max-of-three\obj\Debug\net9.0\1-max-of-three.csproj.CoreCompileInputs.cache
+D:\UU\oop\oop\1-max-of-three\obj\Debug\net9.0\1-max-of-three.dll
+D:\UU\oop\oop\1-max-of-three\obj\Debug\net9.0\refint\1-max-of-three.dll
+D:\UU\oop\oop\1-max-of-three\obj\Debug\net9.0\1-max-of-three.pdb
+D:\UU\oop\oop\1-max-of-three\obj\Debug\net9.0\1-max-of-three.genruntimeconfig.cache
+D:\UU\oop\oop\1-max-of-three\obj\Debug\net9.0\ref\1-max-of-three.dll
