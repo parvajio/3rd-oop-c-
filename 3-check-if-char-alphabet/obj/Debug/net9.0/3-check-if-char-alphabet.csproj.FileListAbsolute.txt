@@ -1,0 +1,15 @@
+D:\UU\oop\oop\3-check-if-char-alphabet\bin\Debug\net9.0\3-check-if-char-alphabet.exe
+D:\UU\oop\oop\3-check-if-char-alphabet\bin\Debug\net9.0\3-check-if-char-alphabet.deps.json
+D:\UU\oop\oop\3-check-if-char-alphabet\bin\Debug\net9.0\3-check-if-char-alphabet.runtimeconfig.json
+D:\UU\oop\oop\3-check-if-char-alphabet\bin\Debug\net9.0\3-check-if-char-alphabet.dll
+D:\UU\oop\oop\3-check-if-char-alphabet\bin\Debug\net9.0\3-check-if-char-alphabet.pdb
+D:\UU\oop\oop\3-check-if-char-alphabet\obj\Debug\net9.0\3-check-if-char-alphabet.GeneratedMSBuildEditorConfig.editorconfig
+D:\UU\oop\oop\3-check-if-char-alphabet\obj\Debug\net9.0\3-check-if-char-alphabet.AssemblyInfoInputs.cache
+D:\UU\oop\oop\3-check-if-char-alphabet\obj\Debug\net9.0\3-check-if-char-alphabet.AssemblyInfo.cs
+D:\UU\oop\oop\3-check-if-char-alphabet\obj\Debug\net9.0\3-check-if-char-alphabet.csproj.CoreCompileInputs.cache
+D:\UU\oop\oop\3-check-if-char-alphabet\obj\Debug\net9.0\3-check-if-char-alphabet.sourcelink.json
+D:\UU\oop\oop\3-check-if-char-alphabet\obj\Debug\net9.0\3-check-if-char-alphabet.dll
+D:\UU\oop\oop\3-check-if-char-alphabet\obj\Debug\net9.0\refint\3-check-if-char-alphabet.dll
+D:\UU\oop\oop\3-check-if-char-alphabet\obj\Debug\net9.0\3-check-if-char-alphabet.pdb
+D:\UU\oop\oop\3-check-if-char-alphabet\obj\Debug\net9.0\3-check-if-char-alphabet.genruntimeconfig.cache
+D:\UU\oop\oop\3-check-if-char-alphabet\obj\Debug\net9.0\ref\3-check-if-char-alphabet.dll
