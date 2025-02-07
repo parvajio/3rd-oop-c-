@@ -1,0 +1,15 @@
+D:\UU\oop\oop\5-array\bin\Debug\net9.0\5-array.exe
+D:\UU\oop\oop\5-array\bin\Debug\net9.0\5-array.deps.json
+D:\UU\oop\oop\5-array\bin\Debug\net9.0\5-array.runtimeconfig.json
+D:\UU\oop\oop\5-array\bin\Debug\net9.0\5-array.dll
+D:\UU\oop\oop\5-array\bin\Debug\net9.0\5-array.pdb
+D:\UU\oop\oop\5-array\obj\Debug\net9.0\5-array.GeneratedMSBuildEditorConfig.editorconfig
+D:\UU\oop\oop\5-array\obj\Debug\net9.0\5-array.AssemblyInfoInputs.cache
+D:\UU\oop\oop\5-array\obj\Debug\net9.0\5-array.AssemblyInfo.cs
+D:\UU\oop\oop\5-array\obj\Debug\net9.0\5-array.csproj.CoreCompileInputs.cache
+D:\UU\oop\oop\5-array\obj\Debug\net9.0\5-array.sourcelink.json
+D:\UU\oop\oop\5-array\obj\Debug\net9.0\5-array.dll
+D:\UU\oop\oop\5-array\obj\Debug\net9.0\refint\5-array.dll
+D:\UU\oop\oop\5-array\obj\Debug\net9.0\5-array.pdb
+D:\UU\oop\oop\5-array\obj\Debug\net9.0\5-array.genruntimeconfig.cache
+D:\UU\oop\oop\5-array\obj\Debug\net9.0\ref\5-array.dll
