@@ -12,12 +12,14 @@ namespace MyApp
             ComplexNumber c3 = c1 + c2;
             ComplexNumber c4 = c1 + 5;
             ComplexNumber c5 = c2 - c1;
+            ComplexNumber c6 = c1--;
 
             c1.Display();
             c2.Display();
             c3.Display();
             c4.Display();
             c5.Display();
+            c6.Display();
         }
     }
 
@@ -59,6 +61,15 @@ namespace MyApp
 
             ComplexNumber c5 = new ComplexNumber(newReal, newImaginary);
             return c5;
+        }
+
+        //  overloading -- to decrease the value of an object by 1, returns an object 
+        public static ComplexNumber operator -- (ComplexNumber c1){
+            int newReal = c1.real--;
+            int newImaginary = c1.imaginary--;
+
+            ComplexNumber c6 = new ComplexNumber(newReal, newImaginary);
+            return c6;
         }
     }
 
