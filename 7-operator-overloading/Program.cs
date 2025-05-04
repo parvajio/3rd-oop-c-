@@ -10,10 +10,12 @@ namespace MyApp
             ComplexNumber c2 = new ComplexNumber(5, 6);
 
             ComplexNumber c3 = c1 + c2;
+            ComplexNumber c4 = c1 + 5;
 
             c1.Display();
             c2.Display();
             c3.Display();
+            c4.Display();
         }
     }
 
@@ -27,15 +29,25 @@ namespace MyApp
         }
 
         public void Display(){
-            Console.WriteLine($"{real} + {imaginary}i");
+            Console.WriteLine($"{real} + {imaginary} i");
         }
 
+        // + operator overloading for 2 object addition 
         public static ComplexNumber operator + (ComplexNumber c1, ComplexNumber c2){
             int newReal = c1.real + c2.real;
             int newImaginary = c1.imaginary + c2.imaginary;
 
             ComplexNumber c3 = new ComplexNumber(newReal,newImaginary);
             return c3;
+        }
+
+        // + operator overloading for adding an int to an object field
+        public static ComplexNumber operator + (ComplexNumber c1, int x){
+            int newReal = c1.real + x;
+            int newImaginary = c1.imaginary + x;
+
+            ComplexNumber c4 = new ComplexNumber(c1, x);
+            return c4;
         }
     }
 
