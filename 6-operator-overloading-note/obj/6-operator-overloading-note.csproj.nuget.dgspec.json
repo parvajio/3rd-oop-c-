@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\f\\uu\\oop\\oop\\3-check-if-char-alphabet\\3-check-if-char-alphabet.csproj": {}
+    "E:\\f\\uu\\oop\\oop\\6-operator-overloading-note\\6-operator-overloading-note.csproj": {}
   },
   "projects": {
-    "E:\\f\\uu\\oop\\oop\\3-check-if-char-alphabet\\3-check-if-char-alphabet.csproj": {
+    "E:\\f\\uu\\oop\\oop\\6-operator-overloading-note\\6-operator-overloading-note.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\f\\uu\\oop\\oop\\3-check-if-char-alphabet\\3-check-if-char-alphabet.csproj",
-        "projectName": "3-check-if-char-alphabet",
-        "projectPath": "E:\\f\\uu\\oop\\oop\\3-check-if-char-alphabet\\3-check-if-char-alphabet.csproj",
+        "projectUniqueName": "E:\\f\\uu\\oop\\oop\\6-operator-overloading-note\\6-operator-overloading-note.csproj",
+        "projectName": "6-operator-overloading-note",
+        "projectPath": "E:\\f\\uu\\oop\\oop\\6-operator-overloading-note\\6-operator-overloading-note.csproj",
         "packagesPath": "C:\\Users\\parvajio\\.nuget\\packages\\",
-        "outputPath": "E:\\f\\uu\\oop\\oop\\3-check-if-char-alphabet\\obj\\",
+        "outputPath": "E:\\f\\uu\\oop\\oop\\6-operator-overloading-note\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\parvajio\\AppData\\Roaming\\NuGet\\NuGet.Config"

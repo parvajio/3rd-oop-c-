@@ -4,6 +4,16 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-max-of-three", "1-max-of-three\1-max-of-three.csproj", "{BC1A71EF-3CE7-3D72-224A-25EA7D070784}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-divisible-by-3n5", "2-divisible-by-3n5\2-divisible-by-3n5.csproj", "{869C3992-1D67-13BC-F4BC-344A3276E537}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-check-if-char-alphabet", "3-check-if-char-alphabet\3-check-if-char-alphabet.csproj", "{5E5C1C58-1079-191F-3C8E-692DE8E5EE2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-restaurent-soft", "4-restaurent-soft\4-restaurent-soft.csproj", "{6AFEC0A7-F9BB-1D52-56BF-94541D9E442F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-array", "5-array\5-array.csproj", "{10B338B4-6805-1D6B-9909-EA17AC43AA23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-operator-overloading-note", "6-operator-overloading-note\6-operator-overloading-note.csproj", "{DC058B35-06B5-370A-C311-922A81B3E566}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,11 +24,31 @@ Global
 		{BC1A71EF-3CE7-3D72-224A-25EA7D070784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC1A71EF-3CE7-3D72-224A-25EA7D070784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC1A71EF-3CE7-3D72-224A-25EA7D070784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{869C3992-1D67-13BC-F4BC-344A3276E537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869C3992-1D67-13BC-F4BC-344A3276E537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869C3992-1D67-13BC-F4BC-344A3276E537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869C3992-1D67-13BC-F4BC-344A3276E537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E5C1C58-1079-191F-3C8E-692DE8E5EE2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E5C1C58-1079-191F-3C8E-692DE8E5EE2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E5C1C58-1079-191F-3C8E-692DE8E5EE2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E5C1C58-1079-191F-3C8E-692DE8E5EE2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AFEC0A7-F9BB-1D52-56BF-94541D9E442F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AFEC0A7-F9BB-1D52-56BF-94541D9E442F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AFEC0A7-F9BB-1D52-56BF-94541D9E442F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AFEC0A7-F9BB-1D52-56BF-94541D9E442F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B338B4-6805-1D6B-9909-EA17AC43AA23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B338B4-6805-1D6B-9909-EA17AC43AA23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B338B4-6805-1D6B-9909-EA17AC43AA23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B338B4-6805-1D6B-9909-EA17AC43AA23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC058B35-06B5-370A-C311-922A81B3E566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC058B35-06B5-370A-C311-922A81B3E566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC058B35-06B5-370A-C311-922A81B3E566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC058B35-06B5-370A-C311-922A81B3E566}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C5920562-F3AA-438C-A534-088012895EE5}
+		SolutionGuid = {3B4F0E69-E9BB-4766-8B20-BFBDD0F76199}
 	EndGlobalSection
 EndGlobal

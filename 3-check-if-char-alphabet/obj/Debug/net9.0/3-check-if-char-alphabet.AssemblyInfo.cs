@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("3-check-if-char-alphabet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05a465e0daea02aaf46e7621b20109e5ee32ea71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a641dc2f411ebdeff889d7c4f1ab6a48074859a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("3-check-if-char-alphabet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("3-check-if-char-alphabet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

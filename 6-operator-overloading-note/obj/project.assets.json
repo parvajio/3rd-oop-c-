@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\f\\uu\\oop\\oop\\1-max-of-three\\1-max-of-three.csproj",
-      "projectName": "1-max-of-three",
-      "projectPath": "E:\\f\\uu\\oop\\oop\\1-max-of-three\\1-max-of-three.csproj",
+      "projectUniqueName": "E:\\f\\uu\\oop\\oop\\6-operator-overloading-note\\6-operator-overloading-note.csproj",
+      "projectName": "6-operator-overloading-note",
+      "projectPath": "E:\\f\\uu\\oop\\oop\\6-operator-overloading-note\\6-operator-overloading-note.csproj",
       "packagesPath": "C:\\Users\\parvajio\\.nuget\\packages\\",
-      "outputPath": "E:\\f\\uu\\oop\\oop\\1-max-of-three\\obj\\",
+      "outputPath": "E:\\f\\uu\\oop\\oop\\6-operator-overloading-note\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\parvajio\\AppData\\Roaming\\NuGet\\NuGet.Config"
