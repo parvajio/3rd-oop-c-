@@ -1,0 +1,15 @@
+E:\f\uu\oop\oop\7-operator-overloading\bin\Debug\net9.0\7-operator-overloading.exe
+E:\f\uu\oop\oop\7-operator-overloading\bin\Debug\net9.0\7-operator-overloading.deps.json
+E:\f\uu\oop\oop\7-operator-overloading\bin\Debug\net9.0\7-operator-overloading.runtimeconfig.json
+E:\f\uu\oop\oop\7-operator-overloading\bin\Debug\net9.0\7-operator-overloading.dll
+E:\f\uu\oop\oop\7-operator-overloading\bin\Debug\net9.0\7-operator-overloading.pdb
+E:\f\uu\oop\oop\7-operator-overloading\obj\Debug\net9.0\7-operator-overloading.GeneratedMSBuildEditorConfig.editorconfig
+E:\f\uu\oop\oop\7-operator-overloading\obj\Debug\net9.0\7-operator-overloading.AssemblyInfoInputs.cache
+E:\f\uu\oop\oop\7-operator-overloading\obj\Debug\net9.0\7-operator-overloading.AssemblyInfo.cs
+E:\f\uu\oop\oop\7-operator-overloading\obj\Debug\net9.0\7-operator-overloading.csproj.CoreCompileInputs.cache
+E:\f\uu\oop\oop\7-operator-overloading\obj\Debug\net9.0\7-operator-overloading.sourcelink.json
+E:\f\uu\oop\oop\7-operator-overloading\obj\Debug\net9.0\7-operator-overloading.dll
+E:\f\uu\oop\oop\7-operator-overloading\obj\Debug\net9.0\refint\7-operator-overloading.dll
+E:\f\uu\oop\oop\7-operator-overloading\obj\Debug\net9.0\7-operator-overloading.pdb
+E:\f\uu\oop\oop\7-operator-overloading\obj\Debug\net9.0\7-operator-overloading.genruntimeconfig.cache
+E:\f\uu\oop\oop\7-operator-overloading\obj\Debug\net9.0\ref\7-operator-overloading.dll
