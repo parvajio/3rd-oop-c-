@@ -46,7 +46,7 @@ namespace MyApp
             int newReal = c1.real + x;
             int newImaginary = c1.imaginary + x;
 
-            ComplexNumber c4 = new ComplexNumber(c1, x);
+            ComplexNumber c4 = new ComplexNumber(newReal, newImaginary);
             return c4;
         }
     }
