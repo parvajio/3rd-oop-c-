@@ -11,11 +11,13 @@ namespace MyApp
 
             ComplexNumber c3 = c1 + c2;
             ComplexNumber c4 = c1 + 5;
+            ComplexNumber c5 = c2 - c1;
 
             c1.Display();
             c2.Display();
             c3.Display();
             c4.Display();
+            c5.Display();
         }
     }
 
@@ -48,6 +50,15 @@ namespace MyApp
 
             ComplexNumber c4 = new ComplexNumber(newReal, newImaginary);
             return c4;
+        }
+
+        // - operator overloading for 2 object substractiion
+        public static ComplexNumber operator - (ComplexNumber c1, ComplexNumber c2){
+            int newReal = c1.real - c2.real;
+            int newImaginary = c1.imaginary - c2.imaginary;
+
+            ComplexNumber c5 = new ComplexNumber(newReal, newImaginary);
+            return c5;
         }
     }
 
