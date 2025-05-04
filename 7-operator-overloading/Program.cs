@@ -20,6 +20,9 @@ namespace MyApp
             c4.Display();
             c5.Display();
             c6.Display();
+
+            Console.WriteLine($"{c1 == c2}");
+            Console.WriteLine($"{c1 == c1}");
         }
     }
 
@@ -70,6 +73,18 @@ namespace MyApp
 
             ComplexNumber c6 = new ComplexNumber(newReal, newImaginary);
             return c6;
+        }
+
+        // overloading == and != to check if two objects are the same, returns true or false
+        public static bool operator == (ComplexNumber c1, ComplexNumber c2){
+            bool newReal = c1.real == c2.real;
+            bool newImaginary = c1.imaginary == c2.imaginary;
+
+            return newReal && newImaginary;
+        }
+
+        public static bool operator != (ComplexNumber c1, ComplexNumber c2){
+            return !(c1 == c2);
         }
     }
 
