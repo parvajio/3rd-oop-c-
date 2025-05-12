@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/3rd-oop-c-/10-shallowCopyVsDeepCopy/10-shallowCopyVsDeepCopy.csproj",
+      "projectUniqueName": "/workspaces/3rd-oop-c-/10-shallowCopy/10-shallowCopyVsDeepCopy.csproj",
       "projectName": "10-shallowCopyVsDeepCopy",
-      "projectPath": "/workspaces/3rd-oop-c-/10-shallowCopyVsDeepCopy/10-shallowCopyVsDeepCopy.csproj",
+      "projectPath": "/workspaces/3rd-oop-c-/10-shallowCopy/10-shallowCopyVsDeepCopy.csproj",
       "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/3rd-oop-c-/10-shallowCopyVsDeepCopy/obj/",
+      "outputPath": "/workspaces/3rd-oop-c-/10-shallowCopy/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/codespace/.nuget/NuGet/NuGet.Config"
