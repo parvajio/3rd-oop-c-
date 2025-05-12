@@ -1,0 +1,15 @@
+/workspaces/3rd-oop-c-/8-abstract-class/obj/Debug/net8.0/8-abstract-class.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/3rd-oop-c-/8-abstract-class/obj/Debug/net8.0/8-abstract-class.AssemblyInfoInputs.cache
+/workspaces/3rd-oop-c-/8-abstract-class/obj/Debug/net8.0/8-abstract-class.AssemblyInfo.cs
+/workspaces/3rd-oop-c-/8-abstract-class/obj/Debug/net8.0/8-abstract-class.csproj.CoreCompileInputs.cache
+/workspaces/3rd-oop-c-/8-abstract-class/obj/Debug/net8.0/8-abstract-class.sourcelink.json
+/workspaces/3rd-oop-c-/8-abstract-class/bin/Debug/net8.0/8-abstract-class
+/workspaces/3rd-oop-c-/8-abstract-class/bin/Debug/net8.0/8-abstract-class.deps.json
+/workspaces/3rd-oop-c-/8-abstract-class/bin/Debug/net8.0/8-abstract-class.runtimeconfig.json
+/workspaces/3rd-oop-c-/8-abstract-class/bin/Debug/net8.0/8-abstract-class.dll
+/workspaces/3rd-oop-c-/8-abstract-class/bin/Debug/net8.0/8-abstract-class.pdb
+/workspaces/3rd-oop-c-/8-abstract-class/obj/Debug/net8.0/8-abstract-class.dll
+/workspaces/3rd-oop-c-/8-abstract-class/obj/Debug/net8.0/refint/8-abstract-class.dll
+/workspaces/3rd-oop-c-/8-abstract-class/obj/Debug/net8.0/8-abstract-class.pdb
+/workspaces/3rd-oop-c-/8-abstract-class/obj/Debug/net8.0/8-abstract-class.genruntimeconfig.cache
+/workspaces/3rd-oop-c-/8-abstract-class/obj/Debug/net8.0/ref/8-abstract-class.dll
