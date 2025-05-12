@@ -1,0 +1,15 @@
+/workspaces/3rd-oop-c-/9-destructor/bin/Debug/net8.0/9-destructor
+/workspaces/3rd-oop-c-/9-destructor/bin/Debug/net8.0/9-destructor.deps.json
+/workspaces/3rd-oop-c-/9-destructor/bin/Debug/net8.0/9-destructor.runtimeconfig.json
+/workspaces/3rd-oop-c-/9-destructor/bin/Debug/net8.0/9-destructor.dll
+/workspaces/3rd-oop-c-/9-destructor/bin/Debug/net8.0/9-destructor.pdb
+/workspaces/3rd-oop-c-/9-destructor/obj/Debug/net8.0/9-destructor.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/3rd-oop-c-/9-destructor/obj/Debug/net8.0/9-destructor.AssemblyInfoInputs.cache
+/workspaces/3rd-oop-c-/9-destructor/obj/Debug/net8.0/9-destructor.AssemblyInfo.cs
+/workspaces/3rd-oop-c-/9-destructor/obj/Debug/net8.0/9-destructor.csproj.CoreCompileInputs.cache
+/workspaces/3rd-oop-c-/9-destructor/obj/Debug/net8.0/9-destructor.sourcelink.json
+/workspaces/3rd-oop-c-/9-destructor/obj/Debug/net8.0/9-destructor.dll
+/workspaces/3rd-oop-c-/9-destructor/obj/Debug/net8.0/refint/9-destructor.dll
+/workspaces/3rd-oop-c-/9-destructor/obj/Debug/net8.0/9-destructor.pdb
+/workspaces/3rd-oop-c-/9-destructor/obj/Debug/net8.0/9-destructor.genruntimeconfig.cache
+/workspaces/3rd-oop-c-/9-destructor/obj/Debug/net8.0/ref/9-destructor.dll
