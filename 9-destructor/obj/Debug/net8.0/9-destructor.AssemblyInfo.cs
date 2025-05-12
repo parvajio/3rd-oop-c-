@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9-destructor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a3dcae75946ce3ad327858c1059c09c4fd0a6e5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63139913dcd478aad7ebc029cec66ba5e8cbda1d")]
 [assembly: System.Reflection.AssemblyProductAttribute("9-destructor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9-destructor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

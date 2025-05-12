@@ -36,10 +36,10 @@ class A{
 }
 
 class B:A{
-    public int na;
+    public int x;
     
-    public B(int n,int na):base(n){
-        this.na = na;
+    public B(int n,int x):base(n){
+        this.x = x;
     Console.WriteLine("constructor b");
     }
     
