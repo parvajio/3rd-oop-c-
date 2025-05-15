@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2-divisible-by-3n5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e10d3d04f1a1d925208479a1d505f42b8511336")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42ad5a57a3b148d33a405508d3baed2612b89e2f")]
 [assembly: System.Reflection.AssemblyProductAttribute("2-divisible-by-3n5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2-divisible-by-3n5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /bin/Debug/net8.0/12-equalOperatorOverloading
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /bin/Debug/net8.0/12-equalOperatorOverloading.deps.json
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /bin/Debug/net8.0/12-equalOperatorOverloading.runtimeconfig.json
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /bin/Debug/net8.0/12-equalOperatorOverloading.dll
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /bin/Debug/net8.0/12-equalOperatorOverloading.pdb
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /obj/Debug/net8.0/12-equalOperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /obj/Debug/net8.0/12-equalOperatorOverloading.AssemblyInfoInputs.cache
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /obj/Debug/net8.0/12-equalOperatorOverloading.AssemblyInfo.cs
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /obj/Debug/net8.0/12-equalOperatorOverloading.csproj.CoreCompileInputs.cache
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /obj/Debug/net8.0/12-equalOperatorOverloading.sourcelink.json
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /obj/Debug/net8.0/12-equalOperatorOverloading.dll
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /obj/Debug/net8.0/refint/12-equalOperatorOverloading.dll
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /obj/Debug/net8.0/12-equalOperatorOverloading.pdb
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /obj/Debug/net8.0/12-equalOperatorOverloading.genruntimeconfig.cache
+/workspaces/3rd-oop-c-/12-equalOperatorOverloading /obj/Debug/net8.0/ref/12-equalOperatorOverloading.dll
